@@ -75,8 +75,15 @@ For both maps, think a bit about the audience of the map, and pay attention to y
   
   
   
-  
-  
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
+ Interesting and useful map concepts well executed. The map of elderly could be used in the prevention of covid for example. The housing study is interesting as well. The choice of presenting the stations as 400m radius walking distance from the station was well reasoned but might still be found confusing by some. Next you could start thinking of adding a scalebar, north arrow and credits to data producers in your static maps 😄
   
   
   
